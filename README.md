@@ -143,7 +143,7 @@ I learned to:
 
 My final presentation brings together my complete internship journey, projects, analytical skills, insights, and professional learnings.
 
-📄 **[View Final Presentation](Final-Presentation/Final_Presentation.pdf)**
+📄 https://github.com/deepanshimohanty28-commits/ApexPlanet-Task-5-Capstone-Integration-Portfolio-Finalization/blob/main/Final%20Presentation.pptx
 
 ---
 
